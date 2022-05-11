@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ## ![test](https://redislabs.com/wp-content/uploads/2016/12/lgo-partners-databricks-125x125.png) AT&T Databricks Introduction Workshop
+# MAGIC ## ![test](https://redislabs.com/wp-content/uploads/2016/12/lgo-partners-databricks-125x125.png) Databricks Introduction Workshop
 # MAGIC 
 # MAGIC Databricks is a **Unified Analytics Platform**, from the original creators of Apache Spark™, that unifies data science and engineering across the Machine Learning lifecycle from data preparation, to experimentation and deployment of ML applications. It's a place where data engineers, data scientists, and business analysts can run data ETL workloads, conduct data exploration, and make business decisions in their own environment!
 
